@@ -18,9 +18,7 @@
 ### 👨‍💻 About Me
 
 - 🎓 Currently pursuing **Computer Engineering**
-- 🏆 Blue Star Scholarship recipient (3 years in a row!)
-- 🔭 I’m working on full-stack projects using **React, Django, Flask, Spring Boot**
-- 🌱 Currently learning **DSA**, **Spring Boot**, and **Blockchain**
+- 🔭 I’m working on full-stack projects using **React, Django, Flask**
 - 💡 Passionate about building useful products and contributing to the tech community
 
 ---
@@ -37,16 +35,12 @@
 **Backend & Programming Languages**:  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 
 **Database & Tools**:  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
-![Neon DB](https://img.shields.io/badge/Neon-00ADB5?style=flat)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github)
@@ -61,7 +55,6 @@ Here are a few highlights from my GitHub repositories:
 - 🏫 [Smart Classroom (CollegePortal)](https://github.com/ashleyalmeida07/collegeportal): Built using Django and React with chat and course sharing features.
 - 🛒 [Sustainable E-Cart](https://organic-e-cart.netlify.app/): Hackathon project with a carbon footprint calculator and sustainability scoring system.
 - 🧠 [SkillBuddy](https://github.com/ashleyalmeida07/skillbuddy): Learning platform with course bartering and community features.
-- 📚 [Library Management (Spring Boot)](https://github.com/ashleyalmeida07/library-management): Backend REST API using Spring Boot and JPA.
 
 ---
 
@@ -77,8 +70,7 @@ Here are a few highlights from my GitHub repositories:
 
 - 📧 Email: ashleyalmeida07@gmail.com  
 - 💼 LinkedIn: [linkedin.com/in/ashleyalmeida07](https://www.linkedin.com/in/ashleyalmeida07/)
-- 🌐 Portfolio: [Coming Soon or Replace with link]
-
+- 🌐 Portfolio:[Portfolio](https://ashley-portfolio-aa.netlify.app/)
 ---
 
 > "Code is like humor. When you have to explain it, it’s bad." – Cory House  
