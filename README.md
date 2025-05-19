@@ -54,7 +54,7 @@ Here are a few highlights from my GitHub repositories:
 - 💬 [AI Chatbot](https://github.com/ashleyalmeida07/ai-chatbot): Flask-based chatbot with image and text interaction.
 - 🏫 [Smart Classroom (CollegePortal)](https://github.com/ashleyalmeida07/collegeportal): Built using Django and React with chat and course sharing features.
 - 🧠 [SkillBuddy](https://github.com/ashleyalmeida07/skillbuddy): Learning platform with course bartering and community features.
-- 📚 [Library Management (Spring Boot)](https://github.com/ashleyalmeida07/library-management): Backend REST API using Spring Boot and JPA.
+- 📚 [Library Management (Spring Boot)](https://github.com/ashleyalmeida07/library-management): Backend using Flask.
 
 ---
 
