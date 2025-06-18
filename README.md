@@ -90,10 +90,6 @@ I'm Ashley Almeida, a Computer Engineering student with a strong passion for ful
       <br>Flask
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=django" width="48" height="48" alt="Django" />
-      <br>Django
-    </td>
-    <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
       <br>Java
     </td>
@@ -106,15 +102,15 @@ I'm Ashley Almeida, a Computer Engineering student with a strong passion for ful
       <br>C++
     </td>
         <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+      <br>Git
+    </td>
+    <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
       <br>PostgreSQL
     </td>
   </tr>
   <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-      <br>Git
-    </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
       <br>GitHub
