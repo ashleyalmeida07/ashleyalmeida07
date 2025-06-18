@@ -29,9 +29,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-I'm Ashley Almeida, a passionate and curious Computer Engineering student with a strong interest in full-stack development, open-source contributions, and innovative software solutions. I love building projects that solve real-world problems — from smart classroom systems and parking management platforms to interactive AI tools. I’ve actively participated in national-level hackathons like Smart India Hackathon and Bit-N-Build, where I developed impactful projects such as a sustainable e-commerce platform. I enjoy learning new things every day and strongly believe in "building the future, one line at a time." 🚀
-
-
+I'm Ashley Almeida, a Computer Engineering student with a strong passion for full-stack development, technology, and continuous learning. I love building web applications that are not only functional but also user-friendly and impactful. From frontend design to backend logic, I enjoy being involved in every step of the development process. Over the past few years, I’ve worked on several personal and academic projects, exploring technologies like React, Flask, and RESTful APIs. I enjoy solving real-world problems through code and always strive to write clean, efficient, and scalable solutions. Whether it’s creating a smart classroom platform or contributing to open source, I believe every line of code is a step toward building something meaningful. Outside of coding, I’m curious about AI, cloud computing, and developer communities. I value collaboration, creativity, and a growth mindset — and I’m always open to learning from others and sharing what I know. For me, tech isn't just a field — it's a space to innovate, connect, and inspire.
 <br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
