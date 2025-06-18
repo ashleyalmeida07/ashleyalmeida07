@@ -29,32 +29,30 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-\`\`\`yaml
-name: Ashley Almeida
-located_in: India
-current_job: Computer Engineering Student
-education:
-  [
-    "Self-Taught Developer",
-    "Computer Engineering"
-  ]
-fields_of_interests:
-  [
-    "Web Development",
-    "Full Stack Development", 
-    "Machine Learning",
-    "UI/UX",
-    "DevOps"
-  ]
-technical_background:
-  [
-    "Full Stack Web Developer",
-    "Flask & Django Backend Developer",
-    "React & Next.js Frontend Developer"
-  ]
-currently_learning: ["TypeScript", "Cloud Technologies", "System Design"]
-2024_goals: ["Create amazing projects", "Contribute to Open Source", "Learn new technologies"]
-hobbies: ["Gaming", "Photography", "Reading Tech Blogs", "Coding"]
+\`\`\`javascript
+const ashley = {
+    pronouns: "she/her",
+    location: "India",
+    currentRole: "Computer Engineering Student",
+    code: ["JavaScript", "Python", "Java", "C", "C++"],
+    askMeAbout: ["web dev", "tech", "app dev", "photography"],
+    technologies: {
+        frontEnd: {
+            js: ["React", "Next.js"],
+            css: ["Tailwind", "Bootstrap"]
+        },
+        backEnd: {
+            python: ["Flask", "Django"],
+            java: ["Spring Boot"]
+        },
+        databases: ["PostgreSQL", "MySQL", "MongoDB"],
+        misc: ["Git", "Docker", "AWS"]
+    },
+    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
+    currentFocus: "Building full-stack applications with modern technologies",
+    funFact: "I debug with console.log() and I'm not ashamed! 🐛",
+    challenge: "I am doing the #100DaysOfCode challenge focused on react and full stack development"
+};
 \`\`\`
 
 <br>
@@ -72,7 +70,6 @@ hobbies: ["Gaming", "Photography", "Reading Tech Blogs", "Coding"]
   <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
   <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="65" height="65" />
   <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="65" height="65" />
 </div>
 
 <br>
@@ -144,6 +141,10 @@ hobbies: ["Gaming", "Photography", "Reading Tech Blogs", "Coding"]
       <br>PostgreSQL
     </td>
     <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+      <br>MongoDB
+    </td>
+    <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
       <br>Git
     </td>
@@ -158,6 +159,10 @@ hobbies: ["Gaming", "Photography", "Reading Tech Blogs", "Coding"]
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=netlify" width="48" height="48" alt="Netlify" />
       <br>Netlify
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
+      <br>Docker
     </td>
   </tr>
 </table>
@@ -299,7 +304,10 @@ hobbies: ["Gaming", "Photography", "Reading Tech Blogs", "Coding"]
 ### 💭 Philosophy
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it,%20it's%20bad.&author=Cory%20House" alt="Quote"/>
+  
+> **"Code is like humor. When you have to explain it, it's bad."**  
+> *— Cory House*
+
 </div>
 
 <br>
