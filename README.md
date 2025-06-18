@@ -29,29 +29,8 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-const ashley = {
-    pronouns: "she/her",
-    location: "India",
-    currentRole: "Computer Engineering Student",
-    code: ["JavaScript", "Python", "Java", "C", "C++"],
-    askMeAbout: ["web dev", "tech", "app dev", "photography"],
-    technologies: {
-        frontEnd: {
-            js: ["React", "Next.js"],
-            css: ["Tailwind", "Bootstrap"]
-        },
-        backEnd: {
-            python: ["Flask", "Django"],
-            java: ["Spring Boot"]
-        },
-        databases: ["PostgreSQL", "MySQL", "MongoDB"],
-        misc: ["Git", "Docker", "AWS"]
-    },
-    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
-    currentFocus: "Building full-stack applications with modern technologies",
-    funFact: "I debug with console.log() and I'm not ashamed! 🐛",
-    challenge: "I am doing the #100DaysOfCode challenge focused on react and full stack development"
-};
+I'm Ashley Almeida, a passionate and curious Computer Engineering student with a strong interest in full-stack development, open-source contributions, and innovative software solutions. I love building projects that solve real-world problems — from smart classroom systems and parking management platforms to interactive AI tools. I’ve actively participated in national-level hackathons like Smart India Hackathon and Bit-N-Build, where I developed impactful projects such as a sustainable e-commerce platform. I enjoy learning new things every day and strongly believe in "building the future, one line at a time." 🚀
+
 
 <br>
 
