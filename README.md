@@ -130,19 +130,11 @@ const ashley = {
       <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" />
       <br>C++
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="Spring" />
-      <br>Spring
-    </td>
   </tr>
   <tr>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
       <br>PostgreSQL
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
-      <br>MongoDB
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
@@ -159,10 +151,6 @@ const ashley = {
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=netlify" width="48" height="48" alt="Netlify" />
       <br>Netlify
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
-      <br>Docker
     </td>
   </tr>
 </table>
@@ -194,13 +182,13 @@ const ashley = {
       <td width="50%">
         <h3 align="center">🤖 AI Chatbot</h3>
         <div align="center">  
-          <a href="https://github.com/ashleyalmeida07/ai-chatbot" target="_blank">
+          <a href="https://github.com/ashleyalmeida07/Chat_Bot_2.0-" target="_blank">
             <img src="https://github-readme-stats.vercel.app/api/pin/?username=ashleyalmeida07&repo=ai-chatbot&theme=algolia" alt="AI Chatbot" />
           </a>
           <br>
           <br>
           <p>
-            <a href="https://github.com/ashleyalmeida07/ai-chatbot" target="_blank">
+            <a href="https://github.com/ashleyalmeida07/Chat_Bot_2.0-" target="_blank">
               <img src="https://img.shields.io/badge/Code-ff9?style=for-the-badge&logo=github&logoColor=black">
             </a>  
           </p>
@@ -263,29 +251,6 @@ const ashley = {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> Current Focus & Goals
-
-<img align="right" alt="Coding" width="450" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-
-### 🎯 What I'm up to
-
-- 🔭 **Currently Working On:** Building full-stack applications with modern tech stack
-- 🌱 **Learning:** Advanced React patterns, TypeScript, and Cloud technologies  
-- 👯 **Looking to Collaborate:** Open source projects and innovative web applications
-- 🤔 **Exploring:** System Design, Microservices, and DevOps practices
-- 💬 **Ask Me About:** Web development, Python, React, or anything tech-related!
-- 📫 **How to Reach Me:** [ashleyalmeida07@gmail.com](mailto:ashleyalmeida07@gmail.com)
-- ⚡ **Fun Fact:** I believe the best code is written with coffee and good music! ☕🎵
-
-### 🏆 2024 Goals
-- [ ] Contribute to 10+ open source projects
-- [ ] Build 5 full-stack applications
-- [ ] Learn TypeScript and Next.js 13+
-- [ ] Get AWS certification
-- [ ] Write technical blog posts
-- [ ] Mentor junior developers
-
-<br clear="both">
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -337,11 +302,6 @@ I'm always excited to connect with fellow developers, tech enthusiasts, and crea
 <a href="https://ashley-portfolio-aa.netlify.app/">
   <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
 </a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=ashleyalmeida07&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
-
 </div>
 
 <div align="center">
