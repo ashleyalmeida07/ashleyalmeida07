@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;Computer+Engineering+Student+%F0%9F%8E%93;Open+Source+Enthusiast+%F0%9F%92%BB;Building+the+Future%2C+One+Line+at+a+Time+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=580&lines=Full+Stack+Developer+%F0%9F%9A%80;Computer+Engineering+Student+%F0%9F%8E%93;Open+Source+Enthusiast+%F0%9F%92%BB;Building+the+Future%2C+One+Line+at+a+Time+%E2%9C%A8" alt="Typing SVG" />
 </div>
 
 <br>
@@ -274,10 +274,6 @@ I'm always excited to connect with fellow developers, tech enthusiasts, and crea
 <a href="https://ashley-portfolio-aa.netlify.app/">
   <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
 </a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=ashleyalmeida07&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
 
 </div>
 
