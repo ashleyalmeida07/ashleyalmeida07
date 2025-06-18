@@ -183,7 +183,7 @@ const ashley = {
         <h3 align="center">🤖 AI Chatbot</h3>
         <div align="center">  
           <a href="https://github.com/ashleyalmeida07/Chat_Bot_2.0-" target="_blank">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=ashleyalmeida07&repo=ai-chatbot&theme=algolia" alt="AI Chatbot" />
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=ashleyalmeida07&repo=Chat_Bot_2.0-&theme=algolia" alt="AI Chatbot" />
           </a>
           <br>
           <br>
@@ -299,6 +299,11 @@ I'm always excited to connect with fellow developers, tech enthusiasts, and crea
 <a href="https://ashley-portfolio-aa.netlify.app/">
   <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
 </a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=ashleyalmeida07&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
+
 </div>
 
 <div align="center">
