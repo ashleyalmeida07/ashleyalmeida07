@@ -203,7 +203,7 @@ I'm Ashley Almeida, a Computer Engineering student with a strong passion for ful
           </p>
           <p><strong>React • Node.js • NeonDB</strong> - Peer-to-peer learning platform with course bartering</p>
         </div>
-      </td>
+     </td>
     <td width="50%">
   <h3 align="center">📰 CampusInk</h3>
   <div align="center">
@@ -219,8 +219,6 @@ I'm Ashley Almeida, a Computer Engineering student with a strong passion for ful
     <p><strong>Next.js • Tailwind CSS • Node.js</strong> – A platform to showcase student publications, patents & achievements with search and filters.</p>
   </div>
 </td>
-
-    </tr>
   </table>
 </div>
 
