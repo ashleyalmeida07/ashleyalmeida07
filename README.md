@@ -257,23 +257,7 @@ I'm Ashley Almeida, a Computer Engineering student with a strong passion for ful
 
 <div align="center">
   
-I'm always excited to connect with fellow developers, tech enthusiasts, and creative minds! Whether you want to collaborate on a project, discuss the latest in tech, share ideas, or just have a friendly chat about code, I'm all ears! 
-
-<br>
-
-**Let's turn ideas into reality! 🚀**
-
-<br>
-
-<a href="mailto:ashleyalmeida07@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-<a href="https://www.linkedin.com/in/ashleyalmeida07/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://ashley-portfolio-aa.netlify.app/">
-  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
-</a>
+I'm always excited to connect with fellow developers, tech enthusiasts, and creative minds. Whether you're looking to collaborate on a project, discuss the latest in tech, brainstorm ideas, or just have a friendly chat about code — feel free to reach out!
 
 </div>
 
