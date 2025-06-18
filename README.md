@@ -167,7 +167,7 @@ I'm Ashley Almeida, a Computer Engineering student with a strong passion for ful
               <img src="https://img.shields.io/badge/Code-ff9?style=for-the-badge&logo=github&logoColor=black">
             </a>  
           </p>
-          <p><strong>Flask • Python • AI/ML</strong> - Interactive chatbot with image and text processing capabilities</p>
+          <p><strong>Flask • Python • Open AI API</strong> - Interactive chatbot with image and text processing capabilities</p>
         </div>
       </td>
       <td width="50%">
@@ -183,7 +183,7 @@ I'm Ashley Almeida, a Computer Engineering student with a strong passion for ful
               <img src="https://img.shields.io/badge/Code-ff9?style=for-the-badge&logo=github&logoColor=black">
             </a>  
           </p>
-          <p><strong>Django • React • PostgreSQL</strong> - Full-stack educational platform with real-time features</p>
+          <p><strong>Django • React • PostgreSQL • HTML • CSS</strong> - Full-stack educational platform with real-time features</p>
         </div>
       </td>
     </tr>
@@ -201,7 +201,7 @@ I'm Ashley Almeida, a Computer Engineering student with a strong passion for ful
               <img src="https://img.shields.io/badge/Code-ff9?style=for-the-badge&logo=github&logoColor=black">
             </a>  
           </p>
-          <p><strong>React • Node.js • MongoDB</strong> - Peer-to-peer learning platform with course bartering</p>
+          <p><strong>React • Node.js • NeonDB</strong> - Peer-to-peer learning platform with course bartering</p>
         </div>
       </td>
     <td width="50%">
