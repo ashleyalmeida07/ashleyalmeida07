@@ -29,7 +29,6 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-\`\`\`javascript
 const ashley = {
     pronouns: "she/her",
     location: "India",
@@ -53,7 +52,6 @@ const ashley = {
     funFact: "I debug with console.log() and I'm not ashamed! 🐛",
     challenge: "I am doing the #100DaysOfCode challenge focused on react and full stack development"
 };
-\`\`\`
 
 <br>
 
