@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=580&lines=Full+Stack+Developer+%F0%9F%9A%80;Computer+Engineering+Student+%F0%9F%8E%93;Open+Source+Enthusiast+%F0%9F%92%BB;Code.+Create.+Innovate.+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;Computer+Engineering+Student+%F0%9F%8E%93;Open+Source+Enthusiast+%F0%9F%92%BB;Code.+Create.+Innovate.+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
 
 <br>
@@ -204,22 +204,22 @@ I'm Ashley Almeida, a Computer Engineering student with a strong passion for ful
           <p><strong>React • Node.js • MongoDB</strong> - Peer-to-peer learning platform with course bartering</p>
         </div>
       </td>
-      <td width="50%">
-        <h3 align="center">📚 Library Management</h3>
-        <div align="center">
-          <a href="https://github.com/ashleyalmeida07/library-management" target="_blank">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=ashleyalmeida07&repo=library-management&theme=algolia" alt="Library Management" />
-          </a>
-          <br>
-          <br>
-          <p>
-            <a href="https://github.com/ashleyalmeida07/library-management" target="_blank">
-              <img src="https://img.shields.io/badge/Code-ff9?style=for-the-badge&logo=github&logoColor=black">
-            </a>  
-          </p>
-          <p><strong>Flask • SQLAlchemy • Bootstrap</strong> - Complete library management solution with RESTful API</p>
-        </div>
-      </td>
+    <td width="50%">
+  <h3 align="center">📰 CampusInk</h3>
+  <div align="center">
+    <a href="https://github.com/ashleyalmeida07/campusink" target="_blank">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=ashleyalmeida07&repo=campusink&theme=algolia" alt="CampusInk" />
+    </a>
+    <br><br>
+    <p>
+      <a href="https://github.com/ashleyalmeida07/campusink" target="_blank">
+        <img src="https://img.shields.io/badge/Code-ff9?style=for-the-badge&logo=github&logoColor=black">
+      </a>  
+    </p>
+    <p><strong>Next.js • Tailwind CSS • Node.js</strong> – A platform to showcase student publications, patents & achievements with search and filters.</p>
+  </div>
+</td>
+
     </tr>
   </table>
 </div>
