@@ -1,218 +1,357 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Ashley+Almeida;Full+Stack+Developer;Computer+Engineering+Student;Open+Source+Enthusiast" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ashley%20Almeida&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900" height="300"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;Computer+Engineering+Student+%F0%9F%8E%93;Open+Source+Enthusiast+%F0%9F%92%BB;Building+the+Future%2C+One+Line+at+a+Time+%E2%9C%A8" alt="Typing SVG" />
 </div>
 
-<p align="center">
+<br>
+
+<div align="center">
   <a href="https://github.com/ashleyalmeida07">
-    <img src="https://img.shields.io/github/followers/ashleyalmeida07?label=Follow&style=for-the-badge&color=blue&labelColor=black" />
+    <img src="https://custom-icon-badges.demolab.com/github/followers/ashleyalmeida07?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
   </a>
   <a href="mailto:ashleyalmeida07@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://custom-icon-badges.demolab.com/badge/-ashleyalmeida07@gmail.com-red?style=for-the-badge&logo=mention&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/ashleyalmeida07/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-blue?style=for-the-badge&logoColor=white&logo=linkedin"/>
   </a>
   <a href="https://ashley-portfolio-aa.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
+    <img src="https://custom-icon-badges.demolab.com/badge/-Portfolio-FF5722?style=for-the-badge&logo=globe&logoColor=white"/>
   </a>
-</p>
+</div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🚀 About Me
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> About Me
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-\`\`\`javascript
-const ashley = {
-    pronouns: "she/her",
-    code: ["JavaScript", "Python", "Java", "C", "C++"],
-    askMeAbout: ["web dev", "tech", "app dev", "photography"],
-    technologies: {
-        frontEnd: {
-            js: ["React", "Next.js"],
-            css: ["Tailwind", "Bootstrap"]
-        },
-        backEnd: {
-            python: ["Flask", "Django"],
-            java: ["Spring Boot"]
-        },
-        databases: ["PostgreSQL", "MySQL", "MongoDB"],
-        misc: ["Git", "Docker", "AWS"]
-    },
-    currentFocus: "Building full-stack applications with modern technologies",
-    funFact: "I debug with console.log() and I'm not ashamed! 🐛"
-};
+\`\`\`yaml
+name: Ashley Almeida
+located_in: India
+current_job: Computer Engineering Student
+education:
+  [
+    "Self-Taught Developer",
+    "Computer Engineering"
+  ]
+fields_of_interests:
+  [
+    "Web Development",
+    "Full Stack Development", 
+    "Machine Learning",
+    "UI/UX",
+    "DevOps"
+  ]
+technical_background:
+  [
+    "Full Stack Web Developer",
+    "Flask & Django Backend Developer",
+    "React & Next.js Frontend Developer"
+  ]
+currently_learning: ["TypeScript", "Cloud Technologies", "System Design"]
+2024_goals: ["Create amazing projects", "Contribute to Open Source", "Learn new technologies"]
+hobbies: ["Gaming", "Photography", "Reading Tech Blogs", "Coding"]
 \`\`\`
 
 <br>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🛠️ Tech Stack
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Tech Stack
 
 <div align="center">
-
-### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### Backend & Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
-### Database & Tools
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="65" height="65" />
 </div>
 
----
+<br>
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashleyalmeida07&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Ashley's GitHub Stats" height="165">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashleyalmeida07&theme=tokyonight&hide_border=true" alt="Ashley's GitHub Streak" height="165">
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashleyalmeida07&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Ashley's Top Languages">
-</div>
-
----
-
-## 🏆 Featured Projects
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%">
-
-### 🤖 AI Chatbot
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ashleyalmeida07&repo=ai-chatbot&theme=tokyonight&hide_border=true)](https://github.com/ashleyalmeida07/ai-chatbot)
-
-**Tech Stack:** `Flask` `Python` `AI/ML`
-- Interactive chatbot with image and text processing
-- Modern UI with real-time responses
-- Deployed on cloud platform
-
-</td>
-<td width="50%">
-
-### 🏫 Smart Classroom Portal
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ashleyalmeida07&repo=collegeportal&theme=tokyonight&hide_border=true)](https://github.com/ashleyalmeida07/collegeportal)
-
-**Tech Stack:** `Django` `React` `PostgreSQL`
-- Full-stack educational platform
-- Real-time chat and course sharing
-- User authentication and authorization
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🧠 SkillBuddy
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ashleyalmeida07&repo=skillbuddy&theme=tokyonight&hide_border=true)](https://github.com/ashleyalmeida07/skillbuddy)
-
-**Tech Stack:** `React` `Node.js` `MongoDB`
-- Peer-to-peer learning platform
-- Course bartering system
-- Community-driven features
-
-</td>
-<td width="50%">
-
-### 📚 Library Management System
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ashleyalmeida07&repo=library-management&theme=tokyonight&hide_border=true)](https://github.com/ashleyalmeida07/library-management)
-
-**Tech Stack:** `Flask` `SQLAlchemy` `Bootstrap`
-- Complete library management solution
-- Book tracking and user management
-- RESTful API design
-
-</td>
-</tr>
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
+      <br>HTML5
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
+      <br>CSS3
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
+      <br>Next.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
+      <br>Tailwind
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" />
+      <br>Bootstrap
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=flask" width="48" height="48" alt="Flask" />
+      <br>Flask
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=django" width="48" height="48" alt="Django" />
+      <br>Django
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
+      <br>Java
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C" />
+      <br>C
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" />
+      <br>C++
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="Spring" />
+      <br>Spring
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
+      <br>PostgreSQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+      <br>MongoDB
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+      <br>Git
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
+      <br>GitHub
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
+      <br>VS Code
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=netlify" width="48" height="48" alt="Netlify" />
+      <br>Netlify
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
+      <br>Docker
+    </td>
+  </tr>
 </table>
 
-</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
----
-
-## 🎯 Current Focus
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> GitHub Analytics
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ashleyalmeida07&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ashleyalmeida07&layout=compact&langs_count=8&theme=algolia"/>
 </div>
 
-- 🔭 **Currently Working On:** Full-stack applications using React, Next.js, and Flask
-- 🌱 **Learning:** Advanced React patterns, TypeScript, and cloud technologies
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ashleyalmeida07&theme=algolia&border_radius=10" alt="streak stats"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ashleyalmeida07&theme=algolia" alt="Ashley's GitHub Contribution"/>
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> Featured Projects
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <h3 align="center">🤖 AI Chatbot</h3>
+        <div align="center">  
+          <a href="https://github.com/ashleyalmeida07/ai-chatbot" target="_blank">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=ashleyalmeida07&repo=ai-chatbot&theme=algolia" alt="AI Chatbot" />
+          </a>
+          <br>
+          <br>
+          <p>
+            <a href="https://github.com/ashleyalmeida07/ai-chatbot" target="_blank">
+              <img src="https://img.shields.io/badge/Code-ff9?style=for-the-badge&logo=github&logoColor=black">
+            </a>  
+          </p>
+          <p><strong>Flask • Python • AI/ML</strong> - Interactive chatbot with image and text processing capabilities</p>
+        </div>
+      </td>
+      <td width="50%">
+        <h3 align="center">🏫 Smart Classroom Portal</h3>
+        <div align="center">
+          <a href="https://github.com/ashleyalmeida07/collegeportal" target="_blank">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=ashleyalmeida07&repo=collegeportal&theme=algolia" alt="College Portal" />
+          </a>
+          <br>
+          <br>
+          <p>
+            <a href="https://github.com/ashleyalmeida07/collegeportal" target="_blank">
+              <img src="https://img.shields.io/badge/Code-ff9?style=for-the-badge&logo=github&logoColor=black">
+            </a>  
+          </p>
+          <p><strong>Django • React • PostgreSQL</strong> - Full-stack educational platform with real-time features</p>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <h3 align="center">🧠 SkillBuddy</h3>
+        <div align="center">
+          <a href="https://github.com/ashleyalmeida07/skillbuddy" target="_blank">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=ashleyalmeida07&repo=skillbuddy&theme=algolia" alt="SkillBuddy" />
+          </a>
+          <br>
+          <br>
+          <p>
+            <a href="https://github.com/ashleyalmeida07/skillbuddy" target="_blank">
+              <img src="https://img.shields.io/badge/Code-ff9?style=for-the-badge&logo=github&logoColor=black">
+            </a>  
+          </p>
+          <p><strong>React • Node.js • MongoDB</strong> - Peer-to-peer learning platform with course bartering</p>
+        </div>
+      </td>
+      <td width="50%">
+        <h3 align="center">📚 Library Management</h3>
+        <div align="center">
+          <a href="https://github.com/ashleyalmeida07/library-management" target="_blank">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=ashleyalmeida07&repo=library-management&theme=algolia" alt="Library Management" />
+          </a>
+          <br>
+          <br>
+          <p>
+            <a href="https://github.com/ashleyalmeida07/library-management" target="_blank">
+              <img src="https://img.shields.io/badge/Code-ff9?style=for-the-badge&logo=github&logoColor=black">
+            </a>  
+          </p>
+          <p><strong>Flask • SQLAlchemy • Bootstrap</strong> - Complete library management solution with RESTful API</p>
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> Current Focus & Goals
+
+<img align="right" alt="Coding" width="450" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
+### 🎯 What I'm up to
+
+- 🔭 **Currently Working On:** Building full-stack applications with modern tech stack
+- 🌱 **Learning:** Advanced React patterns, TypeScript, and Cloud technologies  
 - 👯 **Looking to Collaborate:** Open source projects and innovative web applications
+- 🤔 **Exploring:** System Design, Microservices, and DevOps practices
 - 💬 **Ask Me About:** Web development, Python, React, or anything tech-related!
+- 📫 **How to Reach Me:** [ashleyalmeida07@gmail.com](mailto:ashleyalmeida07@gmail.com)
 - ⚡ **Fun Fact:** I believe the best code is written with coffee and good music! ☕🎵
 
----
+### 🏆 2024 Goals
+- [ ] Contribute to 10+ open source projects
+- [ ] Build 5 full-stack applications
+- [ ] Learn TypeScript and Next.js 13+
+- [ ] Get AWS certification
+- [ ] Write technical blog posts
+- [ ] Mentor junior developers
 
-## 📈 Contribution Graph
+<br clear="both">
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashleyalmeida07&theme=tokyo-night&hide_border=true&area=true" width="100%">
-</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ashleyalmeida07&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" width="100%">
-</div>
-
----
-
-## 💭 Random Dev Quote
+## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50"> More About Me
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote">
+  <img src="https://github-profile-trophy.vercel.app/?username=ashleyalmeida07&theme=algolia&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" />
 </div>
 
----
+<br>
 
-## 🤝 Let's Connect!
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=footer&text=&fontSize=0" width="100%"/>
+</div>
+
+### 💭 Philosophy
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it,%20it's%20bad.&author=Cory%20House" alt="Quote"/>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=footer&text=&fontSize=0" width="100%"/>
+</div>
+
+## 🤝 Let's Connect and Build Something Amazing Together!
 
 <div align="center">
   
-I'm always interested in connecting with fellow developers and tech enthusiasts! Whether you want to collaborate on a project, discuss the latest in tech, or just say hi, feel free to reach out.
+I'm always excited to connect with fellow developers, tech enthusiasts, and creative minds! Whether you want to collaborate on a project, discuss the latest in tech, share ideas, or just have a friendly chat about code, I'm all ears! 
 
-**📧 Email:** [ashleyalmeida07@gmail.com](mailto:ashleyalmeida07@gmail.com)  
-**💼 LinkedIn:** [linkedin.com/in/ashleyalmeida07](https://www.linkedin.com/in/ashleyalmeida07/)  
-**🌐 Portfolio:** [ashley-portfolio-aa.netlify.app](https://ashley-portfolio-aa.netlify.app/)
+<br>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="900">
+**Let's turn ideas into reality! 🚀**
 
+<br>
+
+<a href="mailto:ashleyalmeida07@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://www.linkedin.com/in/ashleyalmeida07/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://ashley-portfolio-aa.netlify.app/">
+  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=ashleyalmeida07&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
+
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" width="100%"/>
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ashleyalmeida07&style=for-the-badge&color=blue" alt="Profile Views">
-  
-  **Thanks for visiting! ⭐ Star some repositories if you find them interesting!**
+  <b>⭐ Star some repositories if you find them interesting! ⭐</b>
+  <br><br>
+  <i>Happy Coding! 💻✨</i>
 </div>
