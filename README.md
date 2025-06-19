@@ -136,10 +136,6 @@ I'm Ashley Almeida, a Computer Engineering student with a strong passion for ful
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ashleyalmeida07&theme=algolia&border_radius=10" alt="streak stats"/>
-</div>
-
-<div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ashleyalmeida07&theme=algolia" alt="Ashley's GitHub Contribution"/>
 </div>
 
