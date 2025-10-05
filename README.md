@@ -32,7 +32,6 @@
 Copilot said: I'm Ashley Almeida, a Computer Engineering student
 I'm Ashley Almeida, a Computer Engineering student passionate about full-stack development. I enjoy building user-friendly web apps and exploring technologies like React and Flask. I value collaboration, creativity, and continuous learning in tech.<br>
 
-<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Tech Stack
 
