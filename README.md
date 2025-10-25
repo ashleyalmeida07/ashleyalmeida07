@@ -130,10 +130,6 @@ I’m Ashley Almeida, a Computer Engineering student passionate about full-stack
   <br>Smart&nbsp;Contract
 </td>
 
-<td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=ethereum" width="48" height="48" alt="Ethereum" />
-  <br>Ethereum
-</td>
   </tr>
  
 </table>
