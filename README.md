@@ -169,7 +169,7 @@ I’m Ashley Almeida, a Computer Engineering student passionate about full-stack
         <p><strong>Python • FastAPI</strong> - Lightweight REST API service (edit description/stack if you prefer)</p>
       </div>
     </td>
-
+<tr>
     <td width="50%">
       <h3 align="center">📰 CampusInk</h3>
       <div align="center">
@@ -203,7 +203,7 @@ I’m Ashley Almeida, a Computer Engineering student passionate about full-stack
         <p><strong>Node.js • Express</strong> - Digital verification/certificate tool (update description/stack if needed)</p>
       </div>
     </td>
-
+<tr>
     <td width="50%">
       <h3 align="center">🎮 GTA06</h3>
       <div align="center">
