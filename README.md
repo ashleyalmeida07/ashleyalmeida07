@@ -198,7 +198,7 @@ I’m Ashley Almeida, a Computer Engineering student passionate about full-stack
             <img src="https://img.shields.io/badge/Code-ff9?style=for-the-badge&logo=github&logoColor=black" alt="Code" />
           </a>  
         </p>
-        <p><strong>Node.js • Express</strong> - Digital verification and certificate tool</p>
+        <p><strong>Node.js • Express</strong> - Digital verification and Certificate tool</p>
       </div>
     </td>
     <td width="50%">
@@ -213,7 +213,7 @@ I’m Ashley Almeida, a Computer Engineering student passionate about full-stack
             <img src="https://img.shields.io/badge/Code-ff9?style=for-the-badge&logo=github&logoColor=black" alt="Code" />
           </a>  
         </p>
-        <p><strong>React • JavaScript</strong> - Interactive game project</p>
+        <p><strong>React • JavaScript</strong> - Interactive website for GTA 6 built with React</p>
       </div>
     </td>
   </tr>
