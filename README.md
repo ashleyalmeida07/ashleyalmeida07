@@ -109,20 +109,33 @@ I’m Ashley Almeida, a Computer Engineering student passionate about full-stack
       <br>PostgreSQL
     </td>
   </tr>
+ 
   <tr>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
       <br>GitHub
     </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
-      <br>VS Code
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=netlify" width="48" height="48" alt="Netlify" />
-      <br>Netlify
-    </td>
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=solidity" width="48" height="48" alt="Solidity" />
+  <br>Solidity
+</td>
+
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
+  <br>MySQL
+</td>
+
+<td align="center" width="96">
+  <img src="https://cdn-icons-png.flaticon.com/512/7700/7700640.png" width="48" height="48" alt="Smart Contract" />
+  <br>Smart&nbsp;Contract
+</td>
+
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=ethereum" width="48" height="48" alt="Ethereum" />
+  <br>Ethereum
+</td>
   </tr>
+ 
 </table>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
