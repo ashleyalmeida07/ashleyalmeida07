@@ -152,7 +152,7 @@ I’m Ashley Almeida, a Computer Engineering student passionate about full-stack
 ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> Featured Projects
 
 <div align="center">
- <table>
+<table>
   <tr>
     <td width="50%">
       <h3 align="center">⚡ FluxAPI</h3>
