@@ -166,7 +166,6 @@ I’m Ashley Almeida, a Computer Engineering student passionate about full-stack
             <img src="https://img.shields.io/badge/Code-ff9?style=for-the-badge&logo=github&logoColor=black" alt="Code" />
           </a>  
         </p>
-        <p><strong>Python • FastAPI</strong> - Lightweight REST API service</p>
       </div>
     </td>
     <td width="50%">
@@ -181,7 +180,6 @@ I’m Ashley Almeida, a Computer Engineering student passionate about full-stack
             <img src="https://img.shields.io/badge/Code-ff9?style=for-the-badge&logo=github&logoColor=black" alt="Code" />
           </a>  
         </p>
-        <p><strong>Next.js • Tailwind CSS • Node.js</strong> - Platform to showcase student publications, patents & achievements with search and filters</p>
       </div>
     </td>
   </tr>
@@ -198,7 +196,6 @@ I’m Ashley Almeida, a Computer Engineering student passionate about full-stack
             <img src="https://img.shields.io/badge/Code-ff9?style=for-the-badge&logo=github&logoColor=black" alt="Code" />
           </a>  
         </p>
-        <p><strong>Node.js • Express</strong> - Digital verification and Certificate tool</p>
       </div>
     </td>
     <td width="50%">
@@ -213,7 +210,6 @@ I’m Ashley Almeida, a Computer Engineering student passionate about full-stack
             <img src="https://img.shields.io/badge/Code-ff9?style=for-the-badge&logo=github&logoColor=black" alt="Code" />
           </a>  
         </p>
-        <p><strong>React • JavaScript</strong> - Interactive website for GTA 6 built with React</p>
       </div>
     </td>
   </tr>
