@@ -13,7 +13,7 @@
     <img src="https://custom-icon-badges.demolab.com/github/followers/ashleyalmeida07?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
   </a>
   <a href="mailto:ashleyalmeida07@gmail.com">
-    <img src="https://custom-icon-badges.demolab.com/badge/-ashleyalmeida07@gmail.com-red?style=for-the-badge&logo=mention&logoColor=white"/>
+    <img src="https://custom-icon-badges.demolab.com/badge/-ashleyalmeida182006@gmail.com-red?style=for-the-badge&logo=mention&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/ashleyalmeida07/">
     <img src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-blue?style=for-the-badge&logoColor=white&logo=linkedin"/>
