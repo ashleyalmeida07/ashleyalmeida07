@@ -43,6 +43,11 @@ I’m Ashley Almeida, a Computer Engineering student passionate about full-stack
   <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
   <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="65" height="65" />
   <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="65" height="65" />
+ <img src="https://techstack-generator.vercel.app/solidity-icon.svg"     alt="Solidity"      width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/mysql-icon.svg"        alt="MySQL"         width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/smart-contract-icon.svg" alt="Smart Contract" width="65" height="65" />
+<img src="https://techstack-generator.vercel.app/ethereum-icon.svg"     alt="Ethereum"      width="65" height="65" />
+
 </div>
 
 <br>
