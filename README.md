@@ -152,74 +152,75 @@ I’m Ashley Almeida, a Computer Engineering student passionate about full-stack
 ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> Featured Projects
 
 <div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <h3 align="center">🤖 AI Chatbot</h3>
-        <div align="center">  
-          <a href="https://github.com/ashleyalmeida07/Chat_Bot_2.0-" target="_blank">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=ashleyalmeida07&repo=Chat_Bot_2.0-&theme=algolia" alt="AI Chatbot" />
-          </a>
-          <br>
-          <br>
-          <p>
-            <a href="https://github.com/ashleyalmeida07/Chat_Bot_2.0-" target="_blank">
-              <img src="https://img.shields.io/badge/Code-ff9?style=for-the-badge&logo=github&logoColor=black">
-            </a>  
-          </p>
-          <p><strong>Flask • Python • Open AI API</strong> - Interactive chatbot with image and text processing capabilities</p>
-        </div>
-      </td>
-      <td width="50%">
-        <h3 align="center">🏫 Smart Classroom Portal</h3>
-        <div align="center">
-          <a href="https://github.com/ashleyalmeida07/collegeportal" target="_blank">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=ashleyalmeida07&repo=collegeportal&theme=algolia" alt="College Portal" />
-          </a>
-          <br>
-          <br>
-          <p>
-            <a href="https://github.com/ashleyalmeida07/collegeportal" target="_blank">
-              <img src="https://img.shields.io/badge/Code-ff9?style=for-the-badge&logo=github&logoColor=black">
-            </a>  
-          </p>
-          <p><strong>Django • React • PostgreSQL • HTML • CSS</strong> - Full-stack educational platform with real-time features</p>
-        </div>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%">
-        <h3 align="center">🧠 SkillBuddy</h3>
-        <div align="center">
-          <a href="https://github.com/ashleyalmeida07/skillbuddy" target="_blank">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=ashleyalmeida07&repo=skillbuddy&theme=algolia" alt="SkillBuddy" />
-          </a>
-          <br>
-          <br>
-          <p>
-            <a href="https://github.com/ashleyalmeida07/skillbuddy" target="_blank">
-              <img src="https://img.shields.io/badge/Code-ff9?style=for-the-badge&logo=github&logoColor=black">
-            </a>  
-          </p>
-          <p><strong>React • Node.js • NeonDB</strong> - Peer-to-peer learning platform with course bartering</p>
-        </div>
-     </td>
+ <table>
+  <tr>
     <td width="50%">
-  <h3 align="center">📰 CampusInk</h3>
-  <div align="center">
-    <a href="https://github.com/ashleyalmeida07/campusink" target="_blank">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=ashleyalmeida07&repo=campusink&theme=algolia" alt="CampusInk" />
-    </a>
-    <br><br>
-    <p>
-      <a href="https://github.com/ashleyalmeida07/campusink" target="_blank">
-        <img src="https://img.shields.io/badge/Code-ff9?style=for-the-badge&logo=github&logoColor=black">
-      </a>  
-    </p>
-    <p><strong>Next.js • Tailwind CSS • Node.js</strong> – A platform to showcase student publications, patents & achievements with search and filters.</p>
-  </div>
-</td>
-  </table>
+      <h3 align="center">⚡ FluxAPI</h3>
+      <div align="center">  
+        <a href="https://github.com/ashleyalmeida07/fluxapi" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ashleyalmeida07&repo=fluxapi&theme=algolia" alt="FluxAPI" />
+        </a>
+        <br><br>
+        <p>
+          <a href="https://github.com/ashleyalmeida07/fluxapi" target="_blank">
+            <img src="https://img.shields.io/badge/Code-ff9?style=for-the-badge&logo=github&logoColor=black" alt="Code" />
+          </a>  
+        </p>
+        <p><strong>Python • FastAPI</strong> - Lightweight REST API service (edit description/stack if you prefer)</p>
+      </div>
+    </td>
+
+    <td width="50%">
+      <h3 align="center">📰 CampusInk</h3>
+      <div align="center">
+        <a href="https://github.com/ashleyalmeida07/campusink" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ashleyalmeida07&repo=campusink&theme=algolia" alt="CampusInk" />
+        </a>
+        <br><br>
+        <p>
+          <a href="https://github.com/ashleyalmeida07/campusink" target="_blank">
+            <img src="https://img.shields.io/badge/Code-ff9?style=for-the-badge&logo=github&logoColor=black" alt="Code" />
+          </a>  
+        </p>
+        <p><strong>Next.js • Tailwind CSS • Node.js</strong> – Platform to showcase student publications, patents & achievements with search and filters.</p>
+      </div>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="50%">
+      <h3 align="center">🔒 VeriCert</h3>
+      <div align="center">
+        <a href="https://github.com/ashleyalmeida07/vericert" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ashleyalmeida07&repo=vericert&theme=algolia" alt="VeriCert" />
+        </a>
+        <br><br>
+        <p>
+          <a href="https://github.com/ashleyalmeida07/vericert" target="_blank">
+            <img src="https://img.shields.io/badge/Code-ff9?style=for-the-badge&logo=github&logoColor=black" alt="Code" />
+          </a>  
+        </p>
+        <p><strong>Node.js • Express</strong> - Digital verification/certificate tool (update description/stack if needed)</p>
+      </div>
+    </td>
+
+    <td width="50%">
+      <h3 align="center">🎮 GTA06</h3>
+      <div align="center">
+        <a href="https://github.com/ashleyalmeida07/gta06" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ashleyalmeida07&repo=gta06&theme=algolia" alt="GTA06" />
+        </a>
+        <br><br>
+        <p>
+          <a href="https://github.com/ashleyalmeida07/gta06" target="_blank">
+            <img src="https://img.shields.io/badge/Code-ff9?style=for-the-badge&logo=github&logoColor=black" alt="Code" />
+          </a>  
+        </p>
+        <p><strong>React • JavaScript</strong> - Project/game named GTA06 (edit description/stack if you want a different text)</p>
+      </div>
+    </td>
+  </tr>
+</table>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
