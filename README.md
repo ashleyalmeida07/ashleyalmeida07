@@ -33,7 +33,6 @@ I’m Ashley Almeida, a Computer Engineering student passionate about full-stack
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Tech Stack
-## Tech Stack
 
 <p align="center">
 <img src="https://techstack-generator.vercel.app/react-icon.svg" width="65"/><img src="https://techstack-generator.vercel.app/python-icon.svg" width="65"/><img src="https://techstack-generator.vercel.app/js-icon.svg" width="65"/><img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="65"/><img src="https://skillicons.dev/icons?i=spring" width="65"/><img src="https://techstack-generator.vercel.app/github-icon.svg" width="65"/><img src="https://techstack-generator.vercel.app/prettier-icon.svg" width="65"/><img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="65"/>
