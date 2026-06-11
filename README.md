@@ -213,7 +213,7 @@ I’m Ashley Almeida, a Computer Engineering student passionate about full-stack
 ## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50"> More About Me
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ashleyalmeida07&theme=algolia&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" />
+  <img src="https://github-trophies.vercel.app/?username=ashleyalmeida07&theme=algolia&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" />
 </div>
 
 <br>
