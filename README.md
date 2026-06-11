@@ -143,6 +143,8 @@ I’m Ashley Almeida, a Computer Engineering student passionate about full-stack
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> Featured Projects
 
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> Featured Projects
+
 <div align="center">
 <table>
   <tr>
@@ -161,44 +163,50 @@ I’m Ashley Almeida, a Computer Engineering student passionate about full-stack
       </div>
     </td>
     <td width="50%">
-      <h3 align="center">📰 CampusInk</h3>
+      <h3 align="center">🔒 AuthBlock</h3>
       <div align="center">
-        <a href="https://github.com/ashleyalmeida07/campusink" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ashleyalmeida07&repo=campusink&theme=algolia" alt="CampusInk" />
+        <a href="https://github.com/ashleyalmeida07/AuthBlock" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ashleyalmeida07&repo=AuthBlock&theme=algolia" alt="AuthBlock" />
         </a>
         <br><br>
         <p>
-          <a href="https://github.com/ashleyalmeida07/campusink" target="_blank">
+          <a href="https://github.com/ashleyalmeida07/AuthBlock" target="_blank">
             <img src="https://img.shields.io/badge/Code-ff9?style=for-the-badge&logo=github&logoColor=black" alt="Code" />
-          </a>  
+          </a>
+          <a href="https://auth-block-iota.vercel.app" target="_blank">
+            <img src="https://img.shields.io/badge/Live-00C853?style=for-the-badge&logo=vercel&logoColor=white" alt="Live" />
+          </a>
         </p>
       </div>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center">🔒 VeriCert</h3>
+      <h3 align="center">💰 KickstartCrypto</h3>
       <div align="center">
-        <a href="https://github.com/ashleyalmeida07/vericert" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ashleyalmeida07&repo=vericert&theme=algolia" alt="VeriCert" />
+        <a href="https://github.com/ashleyalmeida07/KickstartCrypto" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ashleyalmeida07&repo=KickstartCrypto&theme=algolia" alt="KickstartCrypto" />
         </a>
         <br><br>
         <p>
-          <a href="https://github.com/ashleyalmeida07/vericert" target="_blank">
+          <a href="https://github.com/ashleyalmeida07/KickstartCrypto" target="_blank">
             <img src="https://img.shields.io/badge/Code-ff9?style=for-the-badge&logo=github&logoColor=black" alt="Code" />
-          </a>  
+          </a>
+          <a href="https://kickstart-crypto-nine.vercel.app" target="_blank">
+            <img src="https://img.shields.io/badge/Live-00C853?style=for-the-badge&logo=vercel&logoColor=white" alt="Live" />
+          </a>
         </p>
       </div>
     </td>
     <td width="50%">
-      <h3 align="center">🎮 GTA06</h3>
+      <h3 align="center">🏙️ CityLedger</h3>
       <div align="center">
-        <a href="https://github.com/ashleyalmeida07/gta06" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ashleyalmeida07&repo=gta06&theme=algolia" alt="GTA06" />
+        <a href="https://github.com/ashleyalmeida07/CityLedger" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ashleyalmeida07&repo=CityLedger&theme=algolia" alt="CityLedger" />
         </a>
         <br><br>
         <p>
-          <a href="https://github.com/ashleyalmeida07/gta06" target="_blank">
+          <a href="https://github.com/ashleyalmeida07/CityLedger" target="_blank">
             <img src="https://img.shields.io/badge/Code-ff9?style=for-the-badge&logo=github&logoColor=black" alt="Code" />
           </a>  
         </p>
