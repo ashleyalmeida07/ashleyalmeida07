@@ -150,7 +150,7 @@ I’m Ashley Almeida, a Computer Engineering student passionate about full-stack
       <h3 align="center">⚡ FluxAPI</h3>
       <div align="center">
         <br>
-        <p align="center">Decentralized API marketplace — developers monetize unused API quotas through secure proxy routing and blockchain-based settlements. Built with Next.js, TypeScript, Node.js & Solidity.</p>
+        <p align="center">Decentralized API marketplace developers monetize unused API quotas through secure proxy routing and blockchain-based settlements. Built with Next.js, TypeScript, Node.js & Solidity.</p>
         <br>
         <p>
           <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white"/>
@@ -168,7 +168,7 @@ I’m Ashley Almeida, a Computer Engineering student passionate about full-stack
       <h3 align="center">🔒 AuthBlock</h3>
       <div align="center">
         <br>
-        <p align="center">Blockchain-powered academic certificate verification — issues and verifies certificates via dual SHA-256 hashes anchored on Ethereum Sepolia. Built with Next.js 14, TypeScript, Solidity, Firebase Auth, AWS S3/SNS/SES & Tesseract OCR.</p>
+        <p align="center">Blockchain-powered academic certificate verification issues and verifies certificates via dual SHA-256 hashes anchored on Ethereum Sepolia. Built with Next.js 14, TypeScript, Solidity, Firebase Auth, AWS S3/SNS/SES & Tesseract OCR.</p>
         <br>
         <p>
           <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white"/>
@@ -191,7 +191,7 @@ I’m Ashley Almeida, a Computer Engineering student passionate about full-stack
       <h3 align="center">💰 KickstartCrypto</h3>
       <div align="center">
         <br>
-        <p align="center">Decentralized crowdfunding platform on Ethereum — create and fund campaigns via smart contracts with full on-chain transparency. Built with Next.js, TypeScript, Solidity, Wagmi v2 & RainbowKit.</p>
+        <p align="center">Decentralized crowdfunding platform on Ethereum create and fund campaigns via smart contracts with full on-chain transparency. Built with Next.js, TypeScript, Solidity, Wagmi v2 & RainbowKit.</p>
         <br>
         <p>
           <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white"/>
@@ -212,7 +212,7 @@ I’m Ashley Almeida, a Computer Engineering student passionate about full-stack
       <h3 align="center">🏙️ CityLedger</h3>
       <div align="center">
         <br>
-        <p align="center">Blockchain-verified civic complaint platform — citizens raise complaints anchored on-chain via Web3j, with AI-powered routing (NVIDIA NIM LLaMA 3.3 70B) and real-time WebSocket updates. Built with Spring Boot, PostgreSQL & Leaflet.js.</p>
+        <p align="center">Blockchain-verified civic complaint platform citizens raise complaints anchored on-chain via Web3j, with AI-powered routing (NVIDIA NIM LLaMA 3.3 70B) and real-time WebSocket updates. Built with Spring Boot, PostgreSQL & Leaflet.js.</p>
         <br>
         <p>
           <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
