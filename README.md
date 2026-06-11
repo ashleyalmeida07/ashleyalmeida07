@@ -143,8 +143,6 @@ I’m Ashley Almeida, a Computer Engineering student passionate about full-stack
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> Featured Projects
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> Featured Projects
-
 <div align="center">
 <table>
   <tr>
@@ -215,6 +213,7 @@ I’m Ashley Almeida, a Computer Engineering student passionate about full-stack
   </tr>
 </table>
 </div>
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
