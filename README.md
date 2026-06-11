@@ -142,15 +142,13 @@ I’m Ashley Almeida, a Computer Engineering student passionate about full-stack
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> Featured Projects
+
 <div align="center">
 <table>
   <tr>
     <td width="50%">
       <h3 align="center">⚡ FluxAPI</h3>
       <div align="center">
-        <a href="https://github.com/ashleyalmeida07/fluxapi" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ashleyalmeida07&repo=fluxapi&theme=algolia" alt="FluxAPI" />
-        </a>
         <br>
         <p align="center">Decentralized API marketplace — developers monetize unused API quotas through secure proxy routing and blockchain-based settlements. Built with Next.js, TypeScript, Node.js & Solidity.</p>
         <br>
@@ -169,9 +167,6 @@ I’m Ashley Almeida, a Computer Engineering student passionate about full-stack
     <td width="50%">
       <h3 align="center">🔒 AuthBlock</h3>
       <div align="center">
-        <a href="https://github.com/ashleyalmeida07/AuthBlock" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ashleyalmeida07&repo=AuthBlock&theme=algolia" alt="AuthBlock" />
-        </a>
         <br>
         <p align="center">Blockchain-powered academic certificate verification — issues and verifies certificates via dual SHA-256 hashes anchored on Ethereum Sepolia. Built with Next.js 14, TypeScript, Solidity, Firebase Auth, AWS S3/SNS/SES & Tesseract OCR.</p>
         <br>
@@ -195,10 +190,8 @@ I’m Ashley Almeida, a Computer Engineering student passionate about full-stack
     <td width="50%">
       <h3 align="center">💰 KickstartCrypto</h3>
       <div align="center">
-        <div style="border:1px solid #1e3a5f; border-radius:8px; padding:16px; background:#0d1117;">
-          <p align="center"><b>💰 KickstartCrypto</b></p>
-          <p align="center">Decentralized crowdfunding platform on Ethereum — create and fund campaigns via smart contracts with full on-chain transparency. Built with Next.js, TypeScript, Solidity, Wagmi v2 & RainbowKit.</p>
-        </div>
+        <br>
+        <p align="center">Decentralized crowdfunding platform on Ethereum — create and fund campaigns via smart contracts with full on-chain transparency. Built with Next.js, TypeScript, Solidity, Wagmi v2 & RainbowKit.</p>
         <br>
         <p>
           <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white"/>
@@ -218,10 +211,8 @@ I’m Ashley Almeida, a Computer Engineering student passionate about full-stack
     <td width="50%">
       <h3 align="center">🏙️ CityLedger</h3>
       <div align="center">
-        <div style="border:1px solid #1e3a5f; border-radius:8px; padding:16px; background:#0d1117;">
-          <p align="center"><b>🏙️ CityLedger</b></p>
-          <p align="center">Blockchain-verified civic complaint platform — citizens raise complaints anchored on-chain via Web3j, with AI-powered routing (NVIDIA NIM LLaMA 3.3 70B) and real-time WebSocket updates. Built with Spring Boot, PostgreSQL & Leaflet.js.</p>
-        </div>
+        <br>
+        <p align="center">Blockchain-verified civic complaint platform — citizens raise complaints anchored on-chain via Web3j, with AI-powered routing (NVIDIA NIM LLaMA 3.3 70B) and real-time WebSocket updates. Built with Spring Boot, PostgreSQL & Leaflet.js.</p>
         <br>
         <p>
           <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
