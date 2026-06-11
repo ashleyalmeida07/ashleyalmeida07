@@ -150,7 +150,7 @@ I’m Ashley Almeida, a Computer Engineering student passionate about full-stack
       <h3 align="center">⚡ FluxAPI</h3>
       <div align="center">  
         <a href="https://github.com/ashleyalmeida07/fluxapi" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ashleyalmeida07&repo=fluxapi&theme=algolia" alt="FluxAPI" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ashleyalmeida07&repo=fluxapi&theme=algolia&description_lines_count=2" alt="FluxAPI" />
         </a>
         <br><br>
         <p>
@@ -164,7 +164,7 @@ I’m Ashley Almeida, a Computer Engineering student passionate about full-stack
       <h3 align="center">🔒 AuthBlock</h3>
       <div align="center">
         <a href="https://github.com/ashleyalmeida07/AuthBlock" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ashleyalmeida07&repo=AuthBlock&theme=algolia" alt="AuthBlock" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ashleyalmeida07&repo=AuthBlock&theme=algolia&description_lines_count=2" alt="AuthBlock" />
         </a>
         <br><br>
         <p>
@@ -183,9 +183,16 @@ I’m Ashley Almeida, a Computer Engineering student passionate about full-stack
       <h3 align="center">💰 KickstartCrypto</h3>
       <div align="center">
         <a href="https://github.com/ashleyalmeida07/KickstartCrypto" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ashleyalmeida07&repo=KickstartCrypto&theme=algolia" alt="KickstartCrypto" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ashleyalmeida07&repo=KickstartCrypto&theme=algolia&show_description=true" alt="KickstartCrypto" />
         </a>
-        <br><br>
+        <br>
+        <p align="center" style="padding: 0 10px;">Decentralized crowdfunding platform on Ethereum — create and fund campaigns via smart contracts with full on-chain transparency. Built with Next.js, TypeScript, Solidity, Wagmi v2 & RainbowKit.</p>
+        <br>
+        <p>
+          <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white"/>
+          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+        </p>
         <p>
           <a href="https://github.com/ashleyalmeida07/KickstartCrypto" target="_blank">
             <img src="https://img.shields.io/badge/Code-ff9?style=for-the-badge&logo=github&logoColor=black" alt="Code" />
@@ -200,9 +207,16 @@ I’m Ashley Almeida, a Computer Engineering student passionate about full-stack
       <h3 align="center">🏙️ CityLedger</h3>
       <div align="center">
         <a href="https://github.com/ashleyalmeida07/CityLedger" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ashleyalmeida07&repo=CityLedger&theme=algolia" alt="CityLedger" />
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ashleyalmeida07&repo=CityLedger&theme=algolia&show_description=true" alt="CityLedger"  />
         </a>
-        <br><br>
+        <br>
+        <p align="center" style="padding: 0 10px;">Blockchain-verified civic complaint platform — citizens raise complaints anchored on-chain via Web3j, with AI-     powered routing (NVIDIA NIM LLaMA 3.3 70B) and real-time WebSocket updates. Built with Spring Boot, PostgreSQL & Leaflet.js.</p>
+        <br>
+        <p>
+          <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white"/>
+          <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+        </p>
         <p>
           <a href="https://github.com/ashleyalmeida07/CityLedger" target="_blank">
             <img src="https://img.shields.io/badge/Code-ff9?style=for-the-badge&logo=github&logoColor=black" alt="Code" />
