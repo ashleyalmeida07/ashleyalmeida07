@@ -144,84 +144,76 @@ I’m Ashley Almeida, a Computer Engineering student passionate about full-stack
 ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> Featured Projects
 
 <div align="center">
-
----
-
-### ⚡ FluxAPI
-
-<p>Decentralized API marketplace where developers monetize unused API quotas through secure proxy routing and blockchain-based settlements.</p>
-
-<p>
-  <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-</p>
-
-<a href="https://github.com/ashleyalmeida07/fluxapi">
-  <img src="https://img.shields.io/badge/Code-ff9?style=for-the-badge&logo=github&logoColor=black"/>
-</a>
-
----
-
-### 🔒 AuthBlock
-
-<p>Blockchain-powered academic certificate verification — issues and verifies certificates via dual SHA-256 hashes anchored on Ethereum Sepolia.</p>
-
-<p>
-  <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
-</p>
-
-<a href="https://github.com/ashleyalmeida07/AuthBlock">
-  <img src="https://img.shields.io/badge/Code-ff9?style=for-the-badge&logo=github&logoColor=black"/>
-</a>
-<a href="https://auth-block-iota.vercel.app">
-  <img src="https://img.shields.io/badge/Live-00C853?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
----
-
-### 💰 KickstartCrypto
-
-<p>Decentralized crowdfunding platform on Ethereum — create and fund campaigns via smart contracts with full on-chain transparency.</p>
-
-<p>
-  <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Wagmi_v2-1C1C1E?style=flat-square&logo=ethereum&logoColor=white"/>
-</p>
-
-<a href="https://github.com/ashleyalmeida07/KickstartCrypto">
-  <img src="https://img.shields.io/badge/Code-ff9?style=for-the-badge&logo=github&logoColor=black"/>
-</a>
-<a href="https://kickstart-crypto-nine.vercel.app">
-  <img src="https://img.shields.io/badge/Live-00C853?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
----
-
-### 🏙️ CityLedger
-
-<p>Blockchain-verified civic complaint platform — complaints anchored on-chain via Web3j, AI-powered routing with NVIDIA NIM LLaMA 3.3 70B, and real-time WebSocket updates.</p>
-
-<p>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Leaflet.js-199900?style=flat-square&logo=leaflet&logoColor=white"/>
-</p>
-
-<a href="https://github.com/ashleyalmeida07/CityLedger">
-  <img src="https://img.shields.io/badge/Code-ff9?style=for-the-badge&logo=github&logoColor=black"/>
-</a>
-
----
-
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">⚡ FluxAPI</h3>
+      <p align="center">Decentralized API marketplace where developers monetize unused API quotas through secure proxy routing and blockchain-based settlements. Built with Next.js, TypeScript, Node.js & Solidity.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white"/>
+      </p>
+      <p align="center">
+        <a href="https://github.com/ashleyalmeida07/fluxapi">
+          <img src="https://img.shields.io/badge/Code-ff9?style=for-the-badge&logo=github&logoColor=black"/>
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🔒 AuthBlock</h3>
+      <p align="center">Blockchain-powered academic certificate verification — issues and verifies certificates via dual SHA-256 hashes anchored on Ethereum Sepolia. Built with Next.js 14, TypeScript, Solidity, Firebase Auth, AWS S3/SNS/SES & Tesseract OCR.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white"/>
+        <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
+      </p>
+      <p align="center">
+        <a href="https://github.com/ashleyalmeida07/AuthBlock">
+          <img src="https://img.shields.io/badge/Code-ff9?style=for-the-badge&logo=github&logoColor=black"/>
+        </a>
+        <a href="https://auth-block-iota.vercel.app">
+          <img src="https://img.shields.io/badge/Live-00C853?style=for-the-badge&logo=vercel&logoColor=white"/>
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">💰 KickstartCrypto</h3>
+      <p align="center">Decentralized crowdfunding platform on Ethereum — create and fund campaigns via smart contracts with full on-chain transparency. Built with Next.js, TypeScript, Solidity, Wagmi v2 & RainbowKit.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white"/>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+      </p>
+      <p align="center">
+        <a href="https://github.com/ashleyalmeida07/KickstartCrypto">
+          <img src="https://img.shields.io/badge/Code-ff9?style=for-the-badge&logo=github&logoColor=black"/>
+        </a>
+        <a href="https://kickstart-crypto-nine.vercel.app">
+          <img src="https://img.shields.io/badge/Live-00C853?style=for-the-badge&logo=vercel&logoColor=white"/>
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🏙️ CityLedger</h3>
+      <p align="center">Blockchain-verified civic complaint platform — complaints anchored on-chain via Web3j, with AI-powered routing (NVIDIA NIM LLaMA 3.3 70B) and real-time WebSocket updates. Built with Spring Boot, PostgreSQL & Leaflet.js.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white"/>
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+      </p>
+      <p align="center">
+        <a href="https://github.com/ashleyalmeida07/CityLedger">
+          <img src="https://img.shields.io/badge/Code-ff9?style=for-the-badge&logo=github&logoColor=black"/>
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
 </div>
+
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
