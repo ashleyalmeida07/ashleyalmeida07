@@ -18,7 +18,7 @@
   <a href="https://www.linkedin.com/in/ashleyalmeida07/">
     <img src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-blue?style=for-the-badge&logoColor=white&logo=linkedin"/>
   </a>
-  <a href="https://ashley-portfolio-aa.netlify.app/">
+  <a href="https://ashley-almeida.vercel.app/">
     <img src="https://custom-icon-badges.demolab.com/badge/-Portfolio-FF5722?style=for-the-badge&logo=globe&logoColor=white"/>
   </a>
 </div>
