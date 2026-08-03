@@ -176,11 +176,6 @@ I’m Ashley Almeida, a Computer Engineering student passionate about building i
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<div align="center">
-  <img src="https://github-trophies.vercel.app/?username=ashleyalmeida07&theme=algolia&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" />
-</div>
-
-<br>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=footer&text=&fontSize=0" width="100%"/>
