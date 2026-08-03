@@ -141,6 +141,24 @@ I’m Ashley Almeida, a Computer Engineering student passionate about building i
   </td>
 
   </tr>
+
+  <tr>
+   <td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI" />
+  <br>FastAPI
+</td>
+
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
+  <br>Docker
+</td>
+
+<td align="center" width="96">
+  <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" />
+  <br>AWS
+</td>
+
+  </tr>
  
 </table>
 
