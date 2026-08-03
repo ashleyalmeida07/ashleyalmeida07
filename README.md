@@ -122,6 +122,24 @@ I’m Ashley Almeida, a Computer Engineering student passionate about building i
   <br>Smart&nbsp;Contract
 </td>
 
+ <!-- ChromaDB -->
+  <td align="center" width="96">
+    <img src="https://avatars.githubusercontent.com/u/122243742?s=200&v=4" width="48" height="48" alt="ChromaDB" />
+    <br>ChromaDB
+  </td>
+
+  <!-- LangGraph -->
+  <td align="center" width="96">
+    <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langgraph-color.png" width="48" height="48" alt="LangGraph" />
+    <br>LangGraph
+  </td>
+
+  <!-- n8n -->
+  <td align="center" width="96">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/n8n.svg" width="48" height="48" alt="n8n" />
+    <br>n8n
+  </td>
+
   </tr>
  
 </table>
