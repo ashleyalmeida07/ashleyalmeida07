@@ -172,9 +172,8 @@ I’m Ashley Almeida, a Computer Engineering student passionate about building i
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ashleyalmeida07&theme=algolia" alt="Ashley's GitHub Contribution"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashleyalmeida07&theme=github-compact&hide_border=true" />
 </div>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> Featured Projects
