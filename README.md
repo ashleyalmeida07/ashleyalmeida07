@@ -27,7 +27,7 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> About Me
 
-I’m Ashley Almeida, a Computer Engineering student passionate about full-stack development and creating user-friendly web applications. I enjoy exploring new technologies, improving user experiences, and building scalable solutions. I value collaboration, creativity, and continuous learning.
+I’m Ashley Almeida, a Computer Engineering student passionate about building innovative technology solutions and solving real-world problems. I enjoy exploring emerging technologies, creating impactful applications, and continuously expanding my skills. I value collaboration, creativity, and lifelong learning.
 <br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
