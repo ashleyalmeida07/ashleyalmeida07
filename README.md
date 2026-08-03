@@ -25,20 +25,12 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=45&section=header&text=👤%20About%20Me&fontSize=24&fontColor=ffffff&animation=fadeIn" />
-</div>
-
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> About Me
 
 I’m Ashley Almeida, a Computer Engineering student passionate about building innovative technology solutions and solving real-world problems. I enjoy exploring emerging technologies, creating impactful applications, and continuously expanding my skills. I value collaboration, creativity, and lifelong learning.
 <br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=45&section=header&text=🛠️%20Tech%20Stack&fontSize=24&fontColor=ffffff&animation=fadeIn" />
-</div>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Tech Stack
 
@@ -172,10 +164,6 @@ I’m Ashley Almeida, a Computer Engineering student passionate about building i
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=45&section=header&text=📊%20GitHub%20Analytics&fontSize=24&fontColor=ffffff&animation=fadeIn" />
-</div>
-
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> GitHub Analytics
 
 <div align="center">
@@ -188,15 +176,6 @@ I’m Ashley Almeida, a Computer Engineering student passionate about building i
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=45&section=header&text=🏆%20More%20About%20Me&fontSize=24&fontColor=ffffff&animation=fadeIn" />
-</div>
-
-## <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="40"> More About Me
-
 <div align="center">
   <img src="https://github-trophies.vercel.app/?username=ashleyalmeida07&theme=algolia&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" />
 </div>
@@ -205,11 +184,8 @@ I’m Ashley Almeida, a Computer Engineering student passionate about building i
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=footer&text=&fontSize=0" width="100%"/>
-</div>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=40&section=header&text=💭%20Philosophy&fontSize=22&fontColor=ffffff&animation=fadeIn" />
-</div>
+
 
 ### 💭 Philosophy
 
@@ -226,11 +202,7 @@ I’m Ashley Almeida, a Computer Engineering student passionate about building i
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=footer&text=&fontSize=0" width="100%"/>
 </div>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=6,11,20&height=45&section=header&text=🤝%20Let's%20Connect&fontSize=24&fontColor=ffffff&animation=fadeIn" />
-</div>
-
-## <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="36"> Let's Connect and Build Something Amazing Together!
+## 🤝 Let's Connect and Build Something Amazing Together!
 
 <div align="center">
   
