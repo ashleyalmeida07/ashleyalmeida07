@@ -179,8 +179,7 @@ I’m Ashley Almeida, a Computer Engineering student passionate about building i
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=footer&text=&fontSize=0" width="100%"/>
-
-
+</div>
 
 ### 💭 Philosophy
 
